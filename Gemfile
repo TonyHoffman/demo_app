@@ -13,6 +13,8 @@ gem 'sqlite3-ruby', '1.3.3', :require => 'sqlite3'
 
 gem 'multi_json'
 
+gem 'pg'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
